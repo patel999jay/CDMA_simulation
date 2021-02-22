@@ -3,7 +3,6 @@
 | Link | DESCRIPTION |
 | ------ | ------ |
 | **[CDMA Basics](https://github.com/patel999jay/CDMA_simulation/tree/main/CDMA_Basics)**  | CDMA Basics |
-| ------ | ------ |
 
 ```python
 #!/usr/bin/env python
