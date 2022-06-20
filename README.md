@@ -1,5 +1,5 @@
 # CDMA simulation
-[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
 [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)
 [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
 
@@ -9,7 +9,7 @@
 
 ```python
 #!/usr/bin/env python
-# coding: utf-8
+# coding: utf-8 
 
 # Author : Jay Patel, Dalhousie University
 # This code is modified for testing on Subnero Surface Modem.
